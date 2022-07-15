@@ -4,7 +4,7 @@ Responsables informatiques du BDS
 
 ## Promo 2024
 
-- Nans WEBERT - @its-just-nans
+- Nans WEBERT - [@Its-Just-Nans](https://github.com/Its-Just-Nans)
 - Louis MARTINEZ
 
 ## Promo 2023
